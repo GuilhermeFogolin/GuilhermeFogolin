@@ -1,5 +1,9 @@
 # Olá, pessoal! 👋
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JndzZvMXk2bzBkbDE5OXF3Znh3cXd0dXFscG5iZ254MW94bGx0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp" alt="Gatinho digitando." width="300">
+</div>
+
 ## Bem-vindos ao meu perfil do GitHub! Me chamo Guilherme Fogolin.
 
 🔭 Atualmento trabalho na Stone Co. na área de suporte (service desk)!
@@ -26,3 +30,5 @@
 <a href = "mailto:guilhermefogolin02@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilhermefogolin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/GuilhermeFogolin/blob/output/github-contribution-grid-snake.svg)
