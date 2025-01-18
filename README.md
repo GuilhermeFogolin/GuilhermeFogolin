@@ -14,7 +14,7 @@
 <br>
 💖 Tenho uma vontade muito grande de me desenvolver na área de tecnologia.
 <br>
-📖 Meus principais interesses são Data Analytics e Cybersecurity.
+📖 Meus principais interesses são Data Analytics, Cybersecurity e Software Engineer.
 <br>
 🔍 Curiosidades: Sou voluntário no FECAPRIDE, um grupo para promover pautas de inclusão e diversidade na faculdade.
 <br>
