@@ -6,7 +6,7 @@
 
 ## Bem-vindos ao meu perfil do GitHub! Me chamo Guilherme Fogolin.
 
-🔭 Atualmento trabalho na Stone Co. na área de suporte (service desk)!
+🔭 Atualmente trabalho na Stone Co. na área de suporte (service desk)!
 <br>
 📋 Faço graduação em Ciência da Computação pela FECAP.
 <br>
