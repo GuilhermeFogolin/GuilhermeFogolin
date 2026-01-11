@@ -18,6 +18,8 @@
 <br>
 ⏳ Meus **passatempos** preferidos são leituras (principalmente ficção e suspense), ouvir música e buscar novos cursos para me aperfeiçoar.
 
+---
+
 ## ⚒️ Ferramentas e tecnologias
 
 ### 🎲 Dados & Analytics
@@ -91,13 +93,7 @@
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C58E?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Contribuições
-
-<div align="center"> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFogolin&show_icons=true&theme=radical)
-
-</div>
+---
 
 ## 📨 Entre em contato comigo! 
 
